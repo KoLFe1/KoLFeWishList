@@ -310,8 +310,9 @@ dimwishlist:item=3593598010&perks=1968497646,1820235745,4049631843
 
 
 
-// 
-//notes: 
+// ESCAPE VELOCITY
+//notes: Dica do legi: overflow e vorpal pra PVE
+dimwishlist:item=1786797708&perks=3643424744,1546637391
 
 
 
