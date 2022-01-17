@@ -321,7 +321,30 @@ dimwishlist:item=1786797708&perks=3643424744,1546637391
 
 
 
+// CODE DUELLO
+//notes:Dicas do Legi: CODE DUELLO - MW Handling
+dimwishlist:item=2496242052&perks=3525010810,3796465595,3300816228,3927722942
+
+// HEZEN VENGEANCE (TIMELOST)
+//notes: Dicas do Legi: Preferencia em cluster bomb
+dimwishlist:item=1921159786&perks=3525010810,2985827016,3643424744,1275731761
+dimwishlist:item=1921159786&perks=3525010810,2985827016,3643424744,1275731761
+dimwishlist:item=1921159786&perks=3525010810,2985827016,3300816228,1546637391
+dimwishlist:item=1921159786&perks=3525010810,2985827016,3643424744,1546637391
+
+// IMPERIAL NEEDLE
+//notes: Dicas do Legi: archers e frenesi
+dimwishlist:item=3460122497&perks=201365942,4104185692
+
+
 //
 //notes:
 
+
+//
+//notes:
+
+
+//
+//notes:
 
