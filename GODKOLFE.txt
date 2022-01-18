@@ -362,11 +362,17 @@ dimwishlist:item=1097616550&perks=3643424744,4104185692
 //notes:Outra dica do legi, mas n god roll
 dimwishlist:item=1097616550&perks=3436462433,2458213969
 
-//
-//notes:
+// HUNG JURY SR4 (ADEPT)
+//notes:Explosive payload é o canal
+dimwishlist:item=681067419&perks=1820235745,3038247973,186337601
+dimwishlist:item=681067419&perks=247725512,3038247973,186337601
+dimwishlist:item=681067419&perks=3436462433,3038247973,186337601
 
-//
-//notes:
+
+// VISION OF CONFLUENCE (TIMELOST)
+//notes:Wellspring na coluna da esquerda é bão, confia
+dimwishlist:item=690668916&perks=3592538738,4104185692
+
 
 //
 //notes:
