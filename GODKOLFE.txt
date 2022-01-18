@@ -349,7 +349,30 @@ dimwishlist:item=2272470786&perks=1885400500,2779035018,2458213969
 //notes:Dicas do legi pra PVE, GOD ROLL DO GOD: Multikill clip e feeding frenzy. NÃO USAR PHASE MAGAZINE NEM FUDENDO
 dimwishlist:item=2272470786&perks=1840239774,1968497646,2779035018,2458213969
 
+// EXTRAORDINARY RENDITION
+//notes: Dicas do Legi: GOD ROLL Overflow, frenesy e o resto ai; MW em handling
+dimwishlist:item=1097616550&perks=1840239774,106909392,3643424744,4104185692
+
+
+// EXTRAORDINARY RENDITION
+//notes:Dicas do Legi: Overflow e frenesy
+dimwishlist:item=1097616550&perks=3643424744,4104185692
+ 
+// EXTRAORDINARY RENDITION
+//notes:Outra dica do legi, mas n god roll
+dimwishlist:item=1097616550&perks=3436462433,2458213969
 
 //
 //notes:
 
+//
+//notes:
+
+//
+//notes:
+
+//
+//notes:
+
+//
+//notes:
