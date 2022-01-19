@@ -28,24 +28,42 @@ dimwishlist:item=108221785&perks=1047830412,3142289711,706527188,591790007
 dimwishlist:item=108221785&perks=1047830412,3142289711,3436462433,591790007
 dimwishlist:item=108221785&perks=1047830412,3142289711,2039302152,591790007
 
-//
+// ETERNAL BLAZON
 //notes:
+dimwishlist:item=3514096004&perks=247725512,4049631843
+dimwishlist:item=3514096004&perks=247725512,1015611457
 
 
-//
-//notes:
 
-//
-//notes:
+// CONTINGENCY PLAN
+//notes: Terceira coluna: outlaw ou subsistence. Quarta coluna: Frenzy, kill clip e one for all
+dimwishlist:item=577528837&perks=1168162263,4104185692
+dimwishlist:item=577528837&perks=1168162263,1015611457
+dimwishlist:item=577528837&perks=1168162263,4049631843
+dimwishlist:item=577528837&perks=1820235745,4104185692
+dimwishlist:item=577528837&perks=1820235745,1015611457
+dimwishlist:item=577528837&perks=1820235745,4049631843
 
-//
+// LAST PERDITION
 //notes:
+dimwishlist:item=188882152&perks=1168162263,3425386926
 
-//
-//notes:
+// LEGAL ACTION II
+//notes: 
+dimwishlist:item=3409645497&perks=2779035018,3425386926
+dimwishlist:item=3409645497&perks=2779035018,4104185692
+dimwishlist:item=3409645497&perks=2779035018,11612903
 
-//
+// IKELOS_SR_V1.0.2
+//notes:PVE dano em boss
+dimwishlist:item=1253087083&perks=3400784728,2213355989
+dimwishlist:item=1253087083&perks=1354429876,2213355989
+
+// DISTANT TUMULUS
 //notes:
+dimwishlist:item=2807687156&perks=2284787283,1771339417
+
+
 
 //
 //notes:
