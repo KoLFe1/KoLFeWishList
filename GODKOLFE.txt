@@ -374,11 +374,14 @@ dimwishlist:item=681067419&perks=3436462433,3038247973,186337601
 dimwishlist:item=690668916&perks=3592538738,4104185692
 
 
-//
-//notes:
+// FIRST IN, LAST OUT
+//notes:Dicas do Legi pra PVE: O dano dessa 12 é muito bom. 
+dimwishlist:item=3616586446&perks=791862061,3300816228,1546637391
 
-//
-//notes:
+// SCATHELOCKE
+//notes:Dicas do Legi pra PVE: chacina e subsistence. ou multikill clip e surplus
+dimwishlist:item=602618796&perks=1820235745,3425386926
+dimwishlist:item=602618796&perks=3436462433,3425386926
 
 //
 //notes:
