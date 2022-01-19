@@ -4,8 +4,10 @@ title:Wish list do KoLFe
 description:Minha memória é uma porra, e meu conhecimento de rolls é pior ainda. Por isso decidi fazer essa lista com anotações de dicas do LegionarioGG, nth, Dh/dx e outros deuses do game.
 
 
-//
-//notes:
+// FALLING GUILLOTINE
+//notes:GOD do GOD.
+dimwishlist:item=614426548&perks=3666208348,269888150,1749209109,3913600130,1486919755
+
 
 //
 //notes:
