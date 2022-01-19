@@ -18,8 +18,15 @@ dimwishlist:item=3075224551&perks=3300816228,4104185692
 dimwishlist:item=217140611&perks=1631667848,2679249093
 
 
-//
-//notes:
+// RIISWALKER
+//notes:PVP
+dimwishlist:item=108221785&perks=1047830412,3142289711,591790007
+
+// RIISWALKER
+//notes:god rolls 
+dimwishlist:item=108221785&perks=1047830412,3142289711,706527188,591790007
+dimwishlist:item=108221785&perks=1047830412,3142289711,3436462433,591790007
+dimwishlist:item=108221785&perks=1047830412,3142289711,2039302152,591790007
 
 //
 //notes:
@@ -28,6 +35,20 @@ dimwishlist:item=217140611&perks=1631667848,2679249093
 //
 //notes:
 
+//
+//notes:
+
+//
+//notes:
+
+//
+//notes:
+
+//
+//notes:
+
+//
+//notes:
 
 //
 //notes:
