@@ -8,6 +8,38 @@ description:Minha memória é uma porra, e meu conhecimento de rolls é pior ain
 //notes:GOD do GOD.
 dimwishlist:item=614426548&perks=3666208348,269888150,1749209109,3913600130,1486919755
 
+//
+//notes:
+
+
+//
+//notes:
+
+//
+//notes:
+
+
+//
+//notes:
+
+//
+//notes:
+
+
+//
+//notes:
+
+//
+//notes:
+
+//
+//notes:
+
+//
+//notes:
+
+
+
 
 // THREADED NEEDLE
 //notes: Dicas do Legi
@@ -65,12 +97,9 @@ dimwishlist:item=2807687156&perks=2284787283,1771339417
 
 
 
-//
+// TRUTHTELLER
 //notes:
-
-//
-//notes:
-
+dimwishlist:item=1946491241&perks=3032599245,3300816228
 
 
 // 1000 YARD STARE
