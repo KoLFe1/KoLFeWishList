@@ -3,6 +3,32 @@
 title:Wish list do KoLFe
 description:Minha memória é uma porra, e meu conhecimento de rolls é pior ainda. Por isso decidi fazer essa lista com anotações de dicas do LegionarioGG, nth, Dh/dx e outros deuses do game.
 
+
+//
+//notes:
+
+//
+//notes:
+
+//
+//notes:
+
+//
+//notes:
+
+//
+//notes:
+
+
+//
+//notes:
+
+
+//
+//notes:
+
+
+
 // 1000 YARD STARE
 //notes: (PVP) Roll dos sonhos: 
 dimwishlist:item=4164201232&perks=1482024992,3142289711,706527188,957782887
@@ -383,5 +409,10 @@ dimwishlist:item=3616586446&perks=791862061,3300816228,1546637391
 dimwishlist:item=602618796&perks=1820235745,3425386926
 dimwishlist:item=602618796&perks=3436462433,3425386926
 
+// IKELOS_SG_V1.0.2
+//notes:Dicas do Legi pra PVE
+dimwishlist:item=1096206669&perks=1840239774,679225683,2779035018,2360754333
+
 //
 //notes:
+
