@@ -9,11 +9,14 @@ description:Minha memória é uma porra, e meu conhecimento de rolls é pior ain
 dimwishlist:item=614426548&perks=3666208348,269888150,1749209109,3913600130,1486919755
 
 
-//
-//notes:
+// THREADED NEEDLE
+//notes: Dicas do Legi
+dimwishlist:item=3075224551&perks=3300816228,4104185692
 
-//
-//notes:
+// THE DEICIDE
+//notes:Dicas do Legi, não sei se é god roll mas é good
+dimwishlist:item=217140611&perks=1631667848,2679249093
+
 
 //
 //notes:
