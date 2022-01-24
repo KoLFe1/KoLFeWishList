@@ -8,8 +8,78 @@ description:Minha memória é uma porra, e meu conhecimento de rolls é pior ain
 //notes:GOD do GOD.
 dimwishlist:item=614426548&perks=3666208348,269888150,1749209109,3913600130,1486919755
 
+
+
+
+// SUCCESSION
+//notes: Dicas do Legi, GOD Roll pra PVE 
+dimwishlist:item=2990047042&perks=1840239774,106909392,1523832109,1546637391,186337601
+dimwishlist:item=2990047042&perks=106909392,1523832109,1546637391,186337601
+
+
+// THE SUPREMACY
+//notes:Palavras do legi sobre snipers pra PVE: "Era a rainha do dps, mas é um 140 que a única coisa boa é ter mais bala."
+dimwishlist:item=686951703&perks=2010801679,3400784728
+
+// UZUME RR4 (ADEPT)
+//notes: Palavras do legi sobre snipers pra PVE: "segunda coluna TEM que ter tático, acoplado ou estendido em sniper. Segunda coluna é muito importante." Essa arma tem muitas rolls boas, triple tap, vorpal, high-impact.
+dimwishlist:item=852228780&perks=106909392,3400784728,2213355989
+dimwishlist:item=852228780&perks=106909392,3400784728,1546637391
+
+
+// FROZEN ORBIT
+//notes:Palavras do legi sobre snipers pra PVE: "segunda coluna TEM que ter tático, acoplado ou estendido em sniper. Segunda coluna é muito importante." 
+dimwishlist:item=3473290087&perks=106909392,2213355989
+dimwishlist:item=3473290087&perks=106909392,1546637391
+dimwishlist:item=3473290087&perks=106909392,3400784728,2213355989
+
+// IKELOS_SR_V1.0.2
+//notes:Palavras do legi sobre snipers pra PVE: "segunda coluna TEM que ter tático, acoplado ou estendido em sniper. Segunda coluna é muito importante." 
+dimwishlist:item=1253087083&perks=2420895100,3400784728,2213355989
+
+
+
+// THE LONG WALK
+//notes:Palavras do legi sobre snipers pra PVE: "segunda coluna TEM que ter tático, acoplado ou estendido em sniper. Segunda coluna é muito importante." 
+dimwishlist:item=3326850591&perks=1087426260,3643424744,1771339417
+
+// DISTANT TUMULUS
+//notes:Palavras do legi sobre snipers pra PVE: "segunda coluna TEM que ter tático, acoplado ou estendido em sniper. Segunda coluna é muito importante." 
+dimwishlist:item=2807687156&perks=2284787283,1771339417
+
+
+// 1000 YARD STARE
+//notes:Palavras do legi sobre snipers pra PVE: "segunda coluna TEM que ter tático, acoplado ou estendido em sniper. Segunda coluna é muito importante." 
+dimwishlist:item=4164201232&perks=1840239774,106909392,3400784728
+dimwishlist:item=4164201232&perks=1840239774,106909392,3400784728,2610012052
+
 //
 //notes:
+
+
+//
+//notes:
+
+
+//
+//notes:
+
+
+//
+//notes:
+
+
+//
+//notes:
+
+
+//
+//notes:
+
+
+//
+//notes:
+
 
 
 // THREADED NEEDLE
